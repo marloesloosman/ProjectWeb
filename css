@@ -1,0 +1,66 @@
+body{
+    font-family: nssans, frutiger, arctik, swift, helvetica;
+}
+h1{
+    color: #003082;
+    font-size: 2.375rem;
+    text-align: center;
+}
+h2{
+    color: #003082;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+h5{
+    font-size: 0,5em;
+    text-align: center;
+}
+.italic{
+    font-style: italic;
+}
+p{
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+.opslaanfavoriet{
+    float: right;
+}
+main{
+    padding: 15vw;
+}
+.reactieplaatsen{
+    float: right;
+    margin-left: 85vw;
+    margin-top: -110em;
+    position: fixed;
+}
+.TerugNaarOverzicht{
+    font-size: 1.2em;
+    position: fixed;
+    margin-left: 10vw;
+    margin-top: 5vh;
+}
+article{
+    display: inline-block; 
+    width: 47,5;
+}
+.kolom2{
+    float: right;
+}
+.kolom2 img{
+    width: 100%;
+    margin-top: 1.5em;
+}
+nav{
+    width: 100%;
+}
+.kolom1{
+    width: 30%;
+    margin-right: 3%;
+    vertical-align: top;
+}
+.kolom1 h5{
+    text-align: left;
+}
