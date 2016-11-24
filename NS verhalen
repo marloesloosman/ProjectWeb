@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <title>NS Verhalen</title>
+    <link rel="stylesheet" href="styles/verhalen.css">
+</head>
+<body>
+ <header>
+     <img src="Nederlandse-spoorwegen-NS-logo.png" alt="NS logo" height="60">
+     <img src="zoekbalk.png" alt="NS zoeken" height="20">
+     <input type="text" name="zoekbalk" placeholder="Zoeken">
+     <a href="login.html"><img src="mijn%20account.png" alt="Mijn account" height="20"></a>
+     <div id="taalicoon"></div>  
+ </header>
+ <main>
+     <a href="detail1.html"><img src="boeken-cadeau.jpg" alt="verrassing">
+     <h1>verrassing</h1>
+     <p>- ‘Biertje dan maar?’
+– ‘Graag.’
+– ‘Vermoeiende dag?’
+– ‘Nah. Naar de bilbiotheek geweest. Met de bus.’
+– ‘Gaat daar een bus naartoe?’
+– ‘De bus stopt op het stationsplein.’
+– ‘Ah. En vandaar moet je lopen?’
+– ‘Ja, ik was met mijn zoon. Die sliep in zijn kinderwagen.’
+– ‘Goed zo. Lekker wandelweer?’</p></a>
+<button>Genre</button><button>Sorteren op</button>
+<h2>Beroemd</h2>
+<h5>Posted on	11 juli 2011	by	Molovich</h5>
+<p>Vlak voordat ik de bus uitstap bedank ik de buschauffeur via de spiegel voor zijn diensten. Hij zwaait joviaal terug. ‘Mijn vrouw is een groot fan van u’, roept hij. ‘Doe haar de groeten’, zeg ik en stap uit. Centraal Station. Ik duw mijn zoon voort. Hij slaapt.</p>
+<a href="#">Lees verder</a>
+<h2>Steenkolenfrans</h2>
+<h5>Posted on	4 juli 2011	by	Molovich	· 2 Comments</h5>
+<p>Le premier fevrièr 2011. Presque midi. Le bus s’arrête. Ligne 21. Place de Gare Centrale. Je marche au derrière d’un poussette. Mon fils dort. Je suis en route au Bibliothèque Public pour emprunteur Exercices de Style de Raymond Queneau. C’est un livre très dificile d’acquérir. Mais zut alors, quelle ravage ici!</p>
+<a href="#">Lees verder</a>
+<h2>Martin Bril</h2>
+<h5>Posted on	1 juli 2011	by	Molovich	· 3 Comments</h5>
+<p>Centraal Station. Iedereen gaat er naartoe, niemand moet er zijn. Behalve om verder te reizen. Ik stap uit de bus, lijn 21. Van Geuzenveld naar Centraal Station. Mijn zoon slaapt in zijn kinderwagen. Eindelijk. Het is druk op het plein, en toch heerst er een rust. De mensen zijn met zichzelf bezig.</p>
+<a href="#">Lees verder</a>
+<h2>Het gebrek</h2>
+<h5>Posted on	29 juni 2011	by	Molovich	· 4 Comments</h5>
+<p>De bus uit. Mijn zoon tukt in zijn kinderkoets. Eindelijk. Ik loop over het plein. Een gierende wind en een striemende miezerregen geselen mijn gezicht. De mensen kijken voor zich uit, ieder voor zich. Ik ben op weg richting de bibliotheek om Stijloefeningen te lenen van hoe heet die schijver, iets met een Q.</p>
+<a href="#">Lees verder</a>
+<h2>Vergezocht</h2>
+<h5>Posted on	27 juni 2011	by	Molovich	· 3 Comments</h5>
+<p>Het was in de omstreken van een gure februaridag rond het middaguur. Mijn zoon lag in zijn kinderwagen te slapen als een oude jamaicaan die teveel Rum achter de ontbrekende kiezen heeft. Ik stapte het gemeenteblik uit met de stramheid van een bejaarde ooievaar. Ik zet mijn welgevormde voet richting het stationsplein.</p>
+<a href="#">Lees verder</a>
+<h2>Zoon</h2>
+<h5>Posted on	24 juni 2011	by	Molovich	· 2 Comments</h5>
+<p>Vroem. Tuut tuut. Whèèèh!! Die! Die! Whèèèh! Die! Die! Hjumhjumhjum. Zzzzzzzzzz.* Zzzzzzz.** Zzzzzzz. Hjumhjumhjum. Zzzzzzz. Grumbl. Huh? Whèèèh. Die! Die! Papa? Hjmwhumwhum. Boe?Boe? Hjmwhumwhum. Whèèèh!!! Die!*** Zjjoemmm. Vroem. Tuut tuut. Schoe!**** * We zitten in zo’n enorme auto, samen met een aantal andere mensen. Ik voel dat ik elk moment in slaap kan vallen.</p>
+<a href="#">Lees verder</a>
+<h2>Telegrafisch</h2>
+<h5>Posted on	22 juni 2011	by	Molovich</h5>
+<p>BUS STOPT STOP NAAR BIBLIOTHEEK VOOR STIJLOEFENINGEN STOP VAN RAYMOND QUENEAU STOP REGEN EN WIND MENSEN IN ZICHZELF GEKEERD STOP MODDERIGE TERINGZOOI HIER STOP DRILBOREN EN HEIPALEN TEISTEREN TROMMELVLIEZEN STOP VROUW VRAAGT IN ENGELS MET FRANS ACCENT OF DIT POSTKANTOOR IS STOP ONTKENNEND ANTWOORD WORDT NIET GEHOORD WEGENS WEGRENNEN NAAR ACHTERUITRIJDENDE RENAULT STOP TWEEDE VERDIEPING</p>
+<a href="#">Lees verder</a>
+<h2>Zombie</h2>
+<h5>Posted on	21 juni 2011	by	Molovich</h5>
+<p>Duizenden hongerige ondoden lopen zielloos over het stationsplein. Op zoek naar voedsel, naar half vergane hondenlijken, naar vers mensenvlees. Het is gekkenwerk dat ik hier ben, maar de brandstof van de bus is op. Ik hoopte dwars door de menigte wandelende lijken heen te kunnen rauzen. Maar het mocht niet zo zijn.</p>
+<a href="#">Lees verder</a>
+<h2>Klumperbeven</h2>
+<h5>Posted on	20 juni 2011	by	Molovich	· 2 Comments</h5>
+<p>Ik bus de stap uit en been met gepaste zwind over het stationsplein. In mijn zoon ligt de kinderwagen te slapen. Het pijpt regenstelen en er guurt een winderige waai. De mensen keren in zichzelf gelopen, kraag in de kop, grond richting neus. Het is hier niet bepoeld een vrolijke baal. Wat een zeringtooi!</p>
+<a href="#">Lees verder</a>
+<h2>Code</h2>
+<h5>Posted on	17 juni 2011	by	Molovich	· 7 Comments</h5>
+<p>Kraak de code en win een romantisch etentje met de verwarde man. In kwellende situaties toveren apen pennenvruchten uit invloedrijke tapijthandelaren. De engelen buigen uitermate succesvol en negeren langzaam onze overrijpe politieke overlevingstrategieën. Verveelde en radicaal hompiekurkende ettertjes tegelen slablaadjes tot appelmoes. Tevens, in overleg, nagelen schoolverlaters patatjes.</p>
+<a href="#">Lees verder</a>
+ </main>
+  <script src="javascript/verhalen.js"></script>  
+</body>
+</html>
