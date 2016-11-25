@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/flexboxheader.css">
+</head>
+
+<body>
+    <header>
+        <div class="header">
+        
+            <img src="Nederlandse-spoorwegen-NS-logo.png" alt="NS logo" height="60">
+            <div class="zoekbalk">
+            <img src="zoekbalk.png" alt="NS zoeken" height="20">
+            <input type="text" name="zoekbalk" placeholder="Zoeken">
+            </div>
+            <a href="login.html"><img src="mijn%20account.png" alt="Mijn account" height="20"></a>
+        </div>
+    </header>
+</body>
+
+</html>
