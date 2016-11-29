@@ -1,0 +1,61 @@
+body{
+    font-family: nssans, frutiger, arctik, swift, helvetica;
+    background-color: #a8998f;
+}
+
+p{
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+main{
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+article{ 
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+}
+
+div{
+    margin-bottom: 3vw;
+    background-color: white;
+}
+
+.mainwidth{
+    width: 97%;
+}
+
+main img{
+    width: 30%;
+    margin-bottom: 1.5%;
+}
+
+.titel{
+    display: inline-block;
+    width: 60%;
+    background-color: #a8998f;
+    margin-bottom: 1.5%;
+    margin-left: 1.5%;
+    vertical-align: top;
+}
+
+h1{
+    color: #003082;
+    font-size: 2.375rem;
+}
+
+h5{
+    font-size: 0,5em;
+}
+
+.italic{
+    font-style: italic;
+}
+    
