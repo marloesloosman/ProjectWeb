@@ -1,0 +1,129 @@
+    body {
+    font-family: nssans, frutiger, arctik, swift, helvetica;
+    background-color: #a8998f;
+}
+
+header {
+    background-color: white;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    vertical-align: top;
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.zoekbalk {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+p {
+    font-size: 1.2em;
+    line-height: 1.4em;
+}
+
+main {
+    margin-bottom: 5vw;
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+article {
+    display: inline-block;
+    width: 27%;
+    height: 50%;
+    vertical-align: top;
+    margin-right: 1.5%;
+    margin-left: 1.5%;
+    margin-bottom: 3vw;
+    background-color: white;
+    padding: 1.5%;
+}
+
+article:first-of-type + article {
+    color: #ba0c2f;
+}
+
+main img {
+    width: 100%;
+    margin-bottom: 1.5%;
+}
+
+.titel {
+    display: inline-block;
+    width: 60%;
+    background-color: #a8998f;
+    margin-bottom: 1.5%;
+    margin-left: 1.5%;
+    vertical-align: top;
+}
+
+h1 {
+    color: #003082;
+    font-size: 2.375rem;
+}
+
+h5 {
+    font-size: 0, 5em;
+}
+
+button {
+    margin-left: 7.5%;
+    margin-top: 2.5%;
+    padding: 1em;
+    color: #003082;
+    background-color: #fcc017;
+    border-style: solid;
+    border-color: #003082;
+    width: 85%;
+    margin-bottom: 3vw;
+    border-top-right-radius: 1em;
+    text-shadow: 0.125em 0.125em gray;
+}
+
+.verhaalvandedag {
+    width: 70%;
+    max-height: 15em;
+    margin-left: 7.5%;
+    Color: white;
+    background-color: #003082;
+    opacity: 0.7;
+    margin-top: -25em;
+    padding: 1.5em;
+    border-top-right-radius: 2em;
+}
+
+.verhaalvandedag h1 {
+    color: white;
+    text-align: center;
+}
+
+.verhaalvandedag h2 {
+    color: white;
+    text-align: center;
+}
+
+@media screen and (max-width: 1000px) {
+    body {
+        -webkit-animation: turn 1s 1;
+    }
+    @-webkit-keyframes turn {
+        0% {
+            -webkit-transform: rotate(0deg);
+        }
+        100% {
+            -webkit-transform: rotate(360deg);
+        }
+    }
+    @media screen and (max-width: 1000px) {
+        body {
+            font-size: 8px;
+        }
+    }
