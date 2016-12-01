@@ -1,0 +1,83 @@
+body {
+    font-family: nssans, frutiger, arctik, swift, helvetica;
+    background-color: #a8998f;
+}
+
+h1 {
+    color: #003082;
+    font-size: 2.375rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+    color: #003082;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end border-color: white;
+    border-style: none;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    color: #003082;
+    background-color: white;
+    padding: 5%;
+}
+
+input {
+    margin-bottom: 1em;
+    padding: 0.5em;
+    width: 100%;
+    border-color: #003082;
+}
+
+legend {
+    font-size: 1.5em;
+}
+
+table {
+    width: 100%;
+}
+
+td {
+    width: 50%;
+}
+
+header img {
+    margin-left: 15%;
+}
+
+#verzend {
+    width: 7em;
+    box-shadow: 0.3em 0.3em 0.3em gray;
+}
+
+a {
+    margin-left: 15%;
+    margin-bottom: 5%;
+    border-bottom: 1px solid gray;
+    transition: width 2s;
+}
+
+a:hover {
+    border-bottom: 3px solid blue;
+}
+
+@media only screen and (max-width: 500px) {
+    table,
+    td,
+    tr {
+        width: 50%;
+    }
+}
