@@ -1,42 +1,118 @@
 <!DOCTYPE html>
 <html lang="nl">
+
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>NS Verhalen</title>
-    <link rel="stylesheet" href="styles/verhalen.css">
+    <link rel="stylesheet" href="styles/login.css">
 </head>
+
 <body>
- <form action="">
-    <h2>Aanmelden:</h2>
-     <fieldset>
-         <legend>
-             Naam
-         </legend>
-         <input type="text" name="voornaam" placeholder="Voornaam">
-         <input type="text" name="tussenvoegsel" placeholder="Tussenvoegsel">
-         <input type="text" name="achternaam" placeholder="Achternaam">
-     </fieldset>
-     <fieldset>
-         <legend>
-             Adres en telefoonnummer
-         </legend>
-         <input type="text" name="straat" placeholder="Straat">
-         <input type="text" name="huisnummer" placeholder="Huisnummer">
-         <input type="text" name="postcode" placeholder="Postcode">
-         <input type="text" name="telefoonnummer" placeholder="Telefoonnummer">
-     </fieldset>
-     <fieldset>
-         <legend>
-             Inloggegevens
-         </legend>
-         <input type="text" name="emailadres" placeholder="E-mailadres">
-         <input type="password" name="wachtwoord" placeholder="Wachtwoord">
-     </fieldset>
-     <fieldset>
-         <input type="submit" value="Verzend">
-     </fieldset>
- </form>
- <a href="index.html">Naar overzichtspagina</a>
-  <script src="javascript/verhalen.js"></script>   
+    <header>
+        <img src="Nederlandse-spoorwegen-NS-logo.png" alt="NS logo" height="60">
+    </header>
+    <form action="none">
+        <h2>Account aanmaken</h2>
+        <fieldset>
+            <legend>
+                Naam
+            </legend>
+            <table>
+                <tr>
+                    <td>
+                        <p>Voornaam</p>
+                    </td>
+                    <td>
+                        <input type="text" name="voornaam" placeholder="Voornaam">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Tussenvoegsel</p>
+                    </td>
+                    <td>
+                        <input type="text" name="tussenvoegsel" placeholder="Tussenvoegsel">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Achternaam</p>
+                    </td>
+                    <td>
+                        <input type="text" name="achternaam" placeholder="Achternaam">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>
+                Adres en telefoonnummer
+            </legend>
+            <table>
+                <tr>
+                    <td>
+                        <p>Straat</p>
+                    </td>
+                    <td>
+                        <input type="text" name="straat" placeholder="Straat">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Huisnummer</p>
+                    </td>
+                    <td>
+                        <input type="text" name="huisnummer" placeholder="Huisnummer">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Postcode</p>
+                    </td>
+                    <td>
+                        <input type="text" name="postcode" placeholder="Postcode">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Telefoonnummer</p>
+                    </td>
+                    <td>
+                        <input type="text" name="telefoonnummer" placeholder="Telefoonnummer">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>
+                Inloggegevens
+            </legend>
+            <table>
+                <tr>
+                    <td>
+                        <p>E-mailadres</p>
+                    </td>
+                    <td>
+                        <input type="text" name="emailadres" placeholder="E-mailadres">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <p>Wachtwoord</p>
+                    </td>
+                    <td>
+                        <input type="password" name="wachtwoord" placeholder="Wachtwoord">
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <input id="verzend" type="submit" value="Verzend">
+        </fieldset>
+    </form>
+    <a href="indexb.html">Naar overzichtspagina</a>
+    <script src="javascript/verhalen.js"></script>
 </body>
+
 </html>
